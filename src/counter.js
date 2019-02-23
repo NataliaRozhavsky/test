@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './counter.scss';
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-// comment
+// comment 2
 class Counter extends Component {
 	constructor(props) {
 		super(props);
